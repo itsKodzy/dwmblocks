@@ -7,6 +7,13 @@ Modular status bar for dwm written in c.
 The statusbar is made from text output from commandline programs.  Blocks are
 added and removed by editing the config.h file.
 
+# Kodzy's build
+
+Based on a Luke's build, tailored for minimalism and my needs. 
+This dwmblocks build reads from a slightly different folder, "dwmblocks-modules" instead of "statusbar"
+[my dots](https://github.com/itsKodzy/dotsies/tree/main/.local/bin/dwmblocks-modules)
+Same as with the Luke's build, you'd want to put this directory in your `$PATH` if you are planning on using modules.
+
 # Luke's build
 
 I have dwmblocks read my preexisting scripts
